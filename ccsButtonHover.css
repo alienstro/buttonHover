@@ -26,5 +26,6 @@ button:hover {
     border-color: #4d908e;
     transform: translateY(-10px);
     box-shadow: 0 10px 4px -4px #4d908e; /* X Y Blur Spread */ 
+    cursor: pointer;
     
 }
